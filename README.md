@@ -1,5 +1,4 @@
-## The project is modified based on google 
-[tensorflow/model/research/im2txt](https://github.com/tensorflow/models/tree/master/research/im2txt)
+## The project is modified based on google [tensorflow/model/research/im2txt](https://github.com/tensorflow/models/tree/master/research/im2txt)
 # Show and Tell: A Neural Image Caption Generator
 
 A TensorFlow implementation of the image-to-text model described in the paper:
