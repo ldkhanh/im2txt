@@ -99,4 +99,4 @@ ENV/
 /bazel-im2txt
 /bazel-testlogs
 /bazel-tf
-
+/bazel*
